@@ -1,0 +1,4 @@
+Mostrar os 10 primeiros termos de uma P.A.
+Mostrar o enésimo termo de uma P.A.
+Mostrar a soma de uma P.A.
+sair
