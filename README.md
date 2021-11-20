@@ -9,3 +9,5 @@
 - [ex0002:](exercicio_py/ex0002_tabuada_multiplicacao) Usuário digita um número inteiro e programa retorna a tabuada de multiplicação desse.
 
 - [ex0003:](exercicio_py/ex0003_progressao_aritmetica) Diversas operações com progressão aritmética.
+
+- [ex0004:](exercicio_py/ex0004_palindromo) Usuário informa uma palavra ou frase e programa retorna se ela é um palíndromo.
