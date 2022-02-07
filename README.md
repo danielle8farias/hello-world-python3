@@ -13,3 +13,6 @@
 - [ex0004:](exercicio_py/ex0004_palindromo) Usuário informa uma palavra ou frase e programa retorna se ela é um palíndromo.
 
 - [ex0005:](exercicio_py/ex0005_fatorial) Usuário informa um número inteiro e programa retorna o seu fatorial.
+
+- [ex0006:] Ordenação de um vetor por inserção direta.
+
