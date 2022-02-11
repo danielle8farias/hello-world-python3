@@ -14,5 +14,7 @@
 
 - [ex0005:](exercicio_py/ex0005_fatorial) Usuário informa um número inteiro e programa retorna o seu fatorial.
 
-- [ex0006:] Ordenação de um vetor por inserção direta.
+- [ex0006:](exercicio_py/ex0006_insercao_direta) Ordenação de um vetor por inserção direta.
 
+- [ex0007:](exercicio_py/ex0007_fila) Estrutura de dado fila.
+- 
