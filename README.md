@@ -17,4 +17,6 @@
 - [ex0006:](exercicio_py/ex0006_insercao_direta) Ordenação de um vetor por inserção direta.
 
 - [ex0007:](exercicio_py/ex0007_fila) Estrutura de dado fila.
-- 
+
+- [ex0008:](exercicio_py/ex0008_arvore_binaria) Estrutura de dado árvore binária.
+
